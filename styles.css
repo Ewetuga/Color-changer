@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.main{
+background-color: aquamarine;
+height: 20vh;
+box-shadow: 2px  2px 5px  antiquewhite;
+padding: 2rem;
+}
+.main span{
+    margin-left: 51rem;
+}
+.one{
+    padding: 5rem;
+}
+.main-container .main1{
+    background-color: black;
+    height: 20vh;
+    color: antiquewhite;
+    border-radius: 1rem;
+    text-align: center;
+    padding-top: 3rem;
+    font-size: 32px;
+
+}
